@@ -1,0 +1,6 @@
+@import "../dist/webkit-sassui-breadcrumb.scss";
+.test-webkit-sassui-breadcrumb{
+  @include webkit-sassui-breadcrumb(#f60,2px);
+  padding:10px 20px;
+  font-size: 14px;
+}

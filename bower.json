@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-breadcrumb",
+  "description": "Webkit sass ui module for breadcrumb.",
+  "main": [
+    "dist/webkit-sassui-breadcrumb.css",
+    "dist/webkit-sassui-breadcrumb.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "breadcrumb"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

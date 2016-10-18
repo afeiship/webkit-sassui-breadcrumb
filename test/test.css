@@ -1,0 +1,15 @@
+/*webkit-sassui-breadcrumb Start*/
+/*webkit-sassui-breadcrumb End*/
+.test-webkit-sassui-breadcrumb {
+  padding: 10px 20px;
+  font-size: 14px;
+}
+
+.test-webkit-sassui-breadcrumb,
+.test-webkit-sassui-breadcrumb > a {
+  color: #f60;
+}
+
+.test-webkit-sassui-breadcrumb > span {
+  margin-right: 2px;
+}

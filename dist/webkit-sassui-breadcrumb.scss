@@ -1,0 +1,12 @@
+/*webkit-sassui-breadcrumb Start*/
+@mixin webkit-sassui-breadcrumb($inColor:#06c1ae,$inMarginRight:4px){
+  //Your mixin code goes here.
+  &,
+  &>a{
+    color:$inColor;
+  }
+  >span{
+    margin-right: $inMarginRight;
+  }
+}
+/*webkit-sassui-breadcrumb End*/
